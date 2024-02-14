@@ -1,0 +1,22 @@
+body 
+{
+font-family: Arial, sans-serif;
+font-size: 16px;
+color: #333; /* should be a dark gray color */
+background-color: #f8f8f8;
+}
+
+h1 
+{
+font-size: 24px;
+color: #ff0000; /*should be a red color */
+}
+
+h2 
+{
+color: #673ab7; /*should be a deep purple*/
+}
+
+img {
+  border-radius: 100%;
+}
